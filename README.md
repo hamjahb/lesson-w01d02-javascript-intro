@@ -53,8 +53,8 @@ This is because the variable has already been declared.
 ## String Concatenation
 ```js
 
-let firstName = "Mike";
-let lastName = "Finneran";
+let firstName = "Reem";
+let lastName = "AlHarbi";
 
 let fullName = firstName + " " + lastName;
 ```
