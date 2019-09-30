@@ -48,14 +48,7 @@ This is because the variable has already been declared.
 ![images/js-14](images/js-14.png)
 ![images/js-15](images/js-15.png)
 
-## String Methods and Properties
-
-```js
-let name = "mike";
-let capitalName = name.toUpperCase(); // ?
-
-name.length // ?
-```
+## String 
 
 ## String Concatenation
 ```js
