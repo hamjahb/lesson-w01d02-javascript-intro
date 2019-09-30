@@ -64,7 +64,7 @@ let fullName = firstName + " " + lastName;
 - Write a variable called `age`.
 - Write a variable called `name`.
 - Write a variable called `color`.
-- Then write a variable  called `cat` and assign all the previous variables along with a sting concatenation.
+- Then write a variable  called `cat` and assign all the previous variables along with a string concatenation.
 - Then call the the variable `cat` with `console.log(cat)`.
 - Result will be: `My future cat's name is Strawberry, he is 86 years old, and his color is Orange.`
 
